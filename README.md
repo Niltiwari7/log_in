@@ -18,7 +18,7 @@ You can easily integrate this login page into your web project by following thes
 
 1. Clone or download this repository to your local machine.
 
-2. Copy the HTML and CSS code from the `index.html` and `style.css` files, respectively, and paste it into your project's files.
+2. Copy the HTML and CSS code from the `index.html`  and paste it into your project's files.
 
 3. Customize the background image, colors, fonts, and any other design elements to match your project's branding and style.
 
